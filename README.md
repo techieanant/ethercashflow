@@ -24,7 +24,8 @@ You could select to search back `x` number of blocks from latest block on the ma
 > **Note:** The RPC endpoint may be slow in fetching data for large block ranges and the tool may seem unresponsive but be assured that its still working in the background and would output the reports as soon as data fetching is complete. 
 
 ## Screen Recording
-![Ether Cash Flow Screen Recording](https://s8.gifyu.com/images/ethcashflow.gif)
+![ethcashflow](https://user-images.githubusercontent.com/7658579/168663854-28173e93-6fdc-4b99-90ca-b50ece533b8d.gif)
+
 
 ## Future Enhancements?
 
